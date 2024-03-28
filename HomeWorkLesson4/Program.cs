@@ -2,4 +2,4 @@
 using HomeWorkLesson4;
 
 
-Cycle.PrintPowNumbersFrom10To20();  
+Scanner.DeleteNumFromArray();  
